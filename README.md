@@ -20,7 +20,7 @@ Patch Intelligence is a research-driven project aimed at improving modern-day pa
 - **Web Interface**: Developed.
 - **Automation**: In Progress.
 
-## Installation
+# Installation
 To run the project locally, follow these steps:
 1. Clone the repository:
    ```sh
