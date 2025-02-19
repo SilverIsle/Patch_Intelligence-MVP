@@ -5,7 +5,7 @@
 ## Overview
 Patch Intelligence is a research-driven project aimed at improving modern-day patch management. The project addresses key issues such as the disconnect between vulnerabilities and patches, lack of critical IT Service Management (ITSM) information on patches, and the need for a structured intelligence system to enhance vulnerability and patch management.
 
-## Features
+# Features
 - **Patch Information Collection**: Gathers patch details for top application libraries (npm, Maven, PyPi, Linux, NuGet).
 - **Knowledge Graph Construction**: Establishes relationships between CVEs (Common Vulnerability Enumeration), CPEs (Common Product Enumeration), and patches.
 - **Risk and Crash Intelligence**: Collects data on patch failure rates, known issues, and operational impact.
