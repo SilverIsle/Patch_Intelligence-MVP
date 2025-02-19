@@ -2,7 +2,7 @@
 
 ---
 
-## Overview
+# Overview
 Patch Intelligence is a research-driven project aimed at improving modern-day patch management. The project addresses key issues such as the disconnect between vulnerabilities and patches, lack of critical IT Service Management (ITSM) information on patches, and the need for a structured intelligence system to enhance vulnerability and patch management.
 
 # Features
